@@ -92,6 +92,7 @@ namespace GuessThatNumber
                         Console.WriteLine("        **************************************************");
                         Console.WriteLine("");
 
+
                         //flag to control the while 
                         bool flag = false;
 
